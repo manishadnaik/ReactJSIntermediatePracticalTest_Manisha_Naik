@@ -1,0 +1,6 @@
+[submodule "react_client"]
+	path = react_client
+	url = https://github.com/manishadnaik/react_client.git
+[submodule "node_server"]
+	path = node_server
+	url = https://github.com/manishadnaik/node_server.git
